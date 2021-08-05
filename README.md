@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rajeshr07
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning AWS
-- 💞️ I’m looking to collaborate on Data Pipelines
+- 🌱 I’m currently Tableau 
+- 💞️ I'm starting my new Job as a Data Scientist
 - 📫 How to reach me : rajeshr07@hotmail.com
 
 <!---
